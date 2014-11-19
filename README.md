@@ -1,2 +1,2 @@
-GCD
-===
+GCD       -   GETTING and CLEANING DATA
+===         =============================   
